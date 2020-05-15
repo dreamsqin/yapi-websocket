@@ -1,0 +1,2 @@
+# yapi-websocket
+针对yapi不能实现websocket数据mock的问题实现一层代理，将yapi的mock数据通过websocket推送到客户端
